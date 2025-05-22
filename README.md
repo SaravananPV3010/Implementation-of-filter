@@ -25,8 +25,8 @@ End the program.
 
 ### 1. Smoothing Filters
 
-NAME:Saravanan PV
-REG NUMBWE:212223230195
+NAME: Saravanan PV<br>
+REG NUMBER: 212223230195<br>
 i) Using Averaging Filter
 ```Python
 import cv2
